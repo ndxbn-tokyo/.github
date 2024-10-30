@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+- [NPM Registry](https://www.npmjs.com/) や [Packagist](https://packagist.org/)、[Docker Hub](hub.docker.com/) などの "Central Repository" へ publish するライブラリのリポジトリ置き場
+- ndxbn.tokyo ドメインにあるコンテンツのリポジトリ
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+publish せずに github.com から直接 import できるものについては、専ら個人で使用するものについては各個人のユーザのリポジトリに置きます。
+ただし、例えば [Go Module](https://pkg.go.dev/cmd/go#hdr-Relative_import_paths) などの Central Repository のないものであっても、外部に公開したいものであれば、この organization にリポジトリが作られます。
